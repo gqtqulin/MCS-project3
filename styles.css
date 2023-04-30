@@ -50,6 +50,12 @@ a:hover {
     margin: 100px 80px 100px 80px;
 }
 
+.links {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
 .main-container p {
     margin-top: 40px;
     font-weight: 300;
